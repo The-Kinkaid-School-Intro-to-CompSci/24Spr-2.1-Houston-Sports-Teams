@@ -325,7 +325,7 @@ function runProgram() {
     // addPlayerCard(firstPlayer);
 
     //STEP 4: Loop through the players and add a card for each player
-    setPlayerCards(/**. Step 4A: pass in array of players */);
+    // setPlayerCards(/**. Step 4A: pass in array of players */);
 
     //STEP 5: Filter the players 
     // let playerFilter = document.querySelector("#playersFilter");
